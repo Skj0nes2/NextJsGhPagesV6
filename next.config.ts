@@ -2,7 +2,7 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/your-repo-name',
+  basePath: '/https://github.com/skj0nes/NextJsGhPagesV6',
 };
 
 export default nextConfig;
